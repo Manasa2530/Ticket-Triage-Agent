@@ -1,0 +1,4 @@
+ticket_id,category,priority,reason
+1,Authentication,High,User is unable to access their account.
+2,General,Low,General issue detected.
+3,Billing,Critical,Issue is related to payment or billing.
