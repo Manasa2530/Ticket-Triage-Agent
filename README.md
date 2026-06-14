@@ -108,19 +108,19 @@ The application can be deployed using:
 Ticket-Triage-Agent/
 │
 ├── data/
-│   ├── tickets.csv                # Input ticket dataset
+│   ├── tickets.csv                
 │
 ├── models/
-│   └── trained_model.pkl          # Saved machine learning model
+│   └── trained_model.pkl          
 │
 ├── src/
-│   ├── preprocessing.py           # Text cleaning and preprocessing
-│   ├── training.py                # Model training script
-│   ├── prediction.py              # Ticket prediction logic
+│   ├── preprocessing.py           
+│   ├── training.py                
+│   ├── prediction.py              
 │
-├── main.py                        # Main application entry point
-├── requirements.txt               # Project dependencies
-├── README.md                      # Project documentation
+├── main.py                        
+├── requirements.txt               
+├── README.md                      
 ```
 
 ---
