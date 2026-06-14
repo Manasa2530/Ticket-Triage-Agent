@@ -1,5 +1,11 @@
 # Ticket Triage Agent
 
+## Team Members
+- Vuggina Sri Sai Manasa
+- Sennamsetti Eswara Rao
+- Pilla Prudhvi Sai Manikanta
+- Purri Preethi Sree Varsha
+
 ## Overview
 An AI-powered Ticket Triage Agent that classifies support tickets using Google Gemini API and assigns priorities.
 
