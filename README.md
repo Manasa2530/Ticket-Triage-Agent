@@ -267,6 +267,12 @@ Model performance depends on the quality, quantity, and diversity of the trainin
 * Continuous model retraining with new data.
 * Cloud deployment with scalable architecture.
 
+  #Project Links
+  GitHub Repository
+  https://github.com/Manasa2530/Ticket-Triage-Agent
+  Live Demo
+  https://ticket-triage-agent-gules.vercel.app/
 
+  
 ## Output
 Results are generated in output/results.csv
